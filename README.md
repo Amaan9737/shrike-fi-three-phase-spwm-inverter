@@ -16,6 +16,13 @@
 > [!CAUTION]
 > ## IMPORTANT NOTE FOR FELLOWSHIP REVIEWERS
 >
+>## Project Proposal
+>
+>The detailed project proposal describes the problem statement, proposed
+>architecture, objectives, development plan, expected outcomes, and safety
+>scope.
+>
+>**[Read the Project Proposal](docs/project-proposal.md)**
 > **This project is currently in the planning and initial design stage.**
 >
 > The complete implementation has not yet been developed. The following deliverables are planned for completion within a target period of **six months from project commencement**:
